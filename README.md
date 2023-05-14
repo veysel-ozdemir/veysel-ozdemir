@@ -1,5 +1,5 @@
-<h1 align="center">Hi there ✌🏾 I'm Veysel Ozdemir</h1>
-<h3 align="center">A passionate Junior Software Developer ✊🏾</h3>
+<h1 align="center">Hi there ✌🏽 I'm Veysel Ozdemir</h1>
+<h3 align="center">A passionate Junior Software Developer ✊🏽</h3>
 
 - 🌱 Currently, improving my skills regarded to **Mobile Development**.
 
@@ -17,7 +17,7 @@
 
 ##
 <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazgez&show_icons=true&locale=en&theme=algolia&langs_count=7&layout=donut" alt="sazgez" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazgez&show_icons=true&locale=en&theme=algolia&layout=donut&exclude_repo=Minote,MiTracker&langs_count=10" alt="sazgez" /></p>
 </div>
 
 <div style="display: inline_block"><br>  
