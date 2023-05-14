@@ -10,9 +10,9 @@
 - ⚡ Fun fact **serious as it's funny**.
 
 ##
-<div>
-  <a align="left"><img src="https://github-readme-stats.vercel.app/api?username=sazgez&show_icons=true&theme=algolia&locale=en&count_private=true" alt="sazgez" /></a>
-  <a align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sazgez&theme=algolia" alt="sazgez" /></a>
+<div align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=sazgez&show_icons=true&theme=algolia&locale=en&count_private=true" alt="sazgez" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=sazgez&theme=algolia" alt="sazgez" /></a>
 </div>
 
 ##
