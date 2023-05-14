@@ -1,22 +1,23 @@
 <h1 align="center">Hi there ✌🏾 I'm Veysel Ozdemir</h1>
 <h3 align="center">A passionate Junior Software Developer ✊🏾</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazgez&label=Profile%20views&color=0e75b6&style=flat" alt="sazgez" /> </p>
-<p align="left"> <a href="https://twitter.com/sazgez" target="blank"><img src="https://img.shields.io/twitter/follow/sazgez?logo=twitter&style=for-the-badge" alt="sazgez" /></a> </p>
-
 - 🌱 Currently, improving my skills regarded to **Mobile Development**.
 
 - 💬 Ask me about **Java, Dart, Flutter, Android**.
 
-- 👀 I've also interest on **Blockchain Developments**.
+- 👀 I've also interest on **Blockchain Development**.
 
 - ⚡ Fun fact **serious as it's funny**.
 
 ##
-<div align="center">
-  <a href="https://github.com/sazgez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sazgez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazgez&layout=compact&langs_count=7&theme=algolia"/>
+<div>
+  <a align="left"><img src="https://github-readme-stats.vercel.app/api?username=sazgez&show_icons=true&theme=algolia&locale=en&count_private=true" alt="sazgez" /></a>
+  <a align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sazgez&theme=algolia" alt="sazgez" /></a>
+</div>
+
+##
+<div>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazgez&show_icons=true&locale=en&theme=algolia&langs_count=7&layout=donut" alt="sazgez" /></p>
 </div>
 
 <div style="display: inline_block"><br>  
@@ -38,4 +39,8 @@
   <a href = "mailto:wishell.rock.4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/veyselch4133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/sazgez" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <p> <img src="https://komarev.com/ghpvc/?username=sazgez&label=Profile%20views&color=0e75b6&style=flat" alt="sazgez" /> </p>
 </div>
