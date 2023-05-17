@@ -7,7 +7,7 @@
 
 - 👀 I've also interest on **Blockchain Development**.
 
-- ⚡ Fun fact **serious as it's funny**.
+- 🎭 Fact: **life gains meaning through the harmony of contrasts**.
 
 ##
 <div align="center">
