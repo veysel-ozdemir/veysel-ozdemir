@@ -7,7 +7,7 @@
 
 - 👀 I've also interest on **Blockchain Development**.
 
-- 🎭 My Fact: **Life gains meaning through the harmony of contrasts**.
+- 🎭 *Life gains meaning through the harmony of contrasts*.
 
 ##
 <div align="center">
