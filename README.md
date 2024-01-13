@@ -11,13 +11,13 @@
 
 ##
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=sazgez&show_icons=true&theme=algolia&locale=en&count_private=true" alt="sazgez" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=sazgez&theme=algolia" alt="sazgez" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=veysel-ozdemir&show_icons=true&theme=algolia&locale=en&count_private=true" alt="veysel-ozdemir" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=veysel-ozdemir&theme=algolia" alt="veysel-ozdemir" /></a>
 </div>
 
 ##
 <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazgez&show_icons=true&locale=en&theme=algolia&layout=donut&exclude_repo=Minote,MiTracker&langs_count=10" alt="sazgez" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=veysel-ozdemir&show_icons=true&locale=en&theme=algolia&layout=donut&exclude_repo=Minote,MiTracker&langs_count=10" alt="veysel-ozdemir" /></p>
 </div>
 
 <div style="display: inline_block"><br>  
