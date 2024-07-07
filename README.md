@@ -1,9 +1,9 @@
 <h1 align="center">Hi there ✌🏽 I'm Veysel Ozdemir</h1>
-<h3 align="center">A passionate Junior Software Developer ✊🏽</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 Currently, improving my skills regarded to **Mobile Development**.
+- 🌱 Currently, improving my skills regarded to **Backend & Mobile Development**.
 
-- 💬 Ask me about **Java, Dart, Flutter, Android**.
+- 💬 Ask me about **Java, Spring, Dart, Flutter, Python**.
 
 - 👀 I've also interest on **Blockchain Development**.
 
